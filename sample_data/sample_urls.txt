@@ -1,0 +1,8 @@
+# Sample Financial & Equity News URLs for Ingestion
+# One URL per line. Lines starting with # are comments.
+
+https://finance.yahoo.com/news/apple-reports-fourth-quarter-results-203000624.html
+https://finance.yahoo.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2025-212000551.html
+https://finance.yahoo.com/news/microsoft-reports-first-quarter-results-200500123.html
+https://finance.yahoo.com/news/alphabet-announces-third-quarter-2024-results-200500456.html
+https://finance.yahoo.com/news/tesla-releases-third-quarter-2024-financial-results-201500789.html
